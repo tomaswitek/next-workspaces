@@ -1,0 +1,11 @@
+{
+  "name": "@company/components",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "dependencies": {
+    "next": "5.0.1-canary.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
