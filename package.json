@@ -5,6 +5,8 @@
   "private": true,
   "workspaces": ["*"],
   "scripts": {
-    "dev": "next app"
+    "dev": "next app",
+    "build": "next build app",
+    "deploy": "now app"
   }
 }
