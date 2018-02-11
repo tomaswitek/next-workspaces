@@ -17,6 +17,5 @@ yarn app
 ## Deploy
 
 ```
-cd app
-now
+now app
 ```
